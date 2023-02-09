@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "gradient-string": "^2.0.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "sync-fetch": "^0.4.2"
+  }
+}
